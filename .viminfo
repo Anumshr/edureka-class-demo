@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1561815314,,"wq"
+|2,0,1561884498,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -28,14 +28,118 @@
 |3,1,1,1,1,0,1561815310,"anukriti"
 
 # File marks:
-'0  1  0  ~/demo/.gitignore
-|4,48,1,0,1561815314,"~/demo/.gitignore"
+'0  1  45  ~/anukriti.html
+|4,48,1,45,1561884498,"~/anukriti.html"
+'1  1  56  ~/edureka-class-demo/test1.html
+|4,49,1,56,1561884379,"~/edureka-class-demo/test1.html"
+'2  3  25  ~/edureka-class-demo/file.html
+|4,50,3,25,1561883904,"~/edureka-class-demo/file.html"
+'3  1  27  ~/edureka-class-demo/home.html
+|4,51,1,27,1561883795,"~/edureka-class-demo/home.html"
+'4  1  0  ~/demo/.gitignore
+|4,52,1,0,1561815314,"~/demo/.gitignore"
 
 # Jumplist (newest first):
+-'  1  45  ~/anukriti.html
+|4,39,1,45,1561884498,"~/anukriti.html"
+-'  1  56  ~/edureka-class-demo/test1.html
+|4,39,1,56,1561884379,"~/edureka-class-demo/test1.html"
+-'  1  56  ~/edureka-class-demo/test1.html
+|4,39,1,56,1561884379,"~/edureka-class-demo/test1.html"
+-'  3  25  ~/edureka-class-demo/file.html
+|4,39,3,25,1561883904,"~/edureka-class-demo/file.html"
+-'  3  25  ~/edureka-class-demo/file.html
+|4,39,3,25,1561883904,"~/edureka-class-demo/file.html"
+-'  3  25  ~/edureka-class-demo/file.html
+|4,39,3,25,1561883904,"~/edureka-class-demo/file.html"
+-'  3  25  ~/edureka-class-demo/file.html
+|4,39,3,25,1561883904,"~/edureka-class-demo/file.html"
+-'  1  0  ~/edureka-class-demo/file.html
+|4,39,1,0,1561883879,"~/edureka-class-demo/file.html"
+-'  1  0  ~/edureka-class-demo/file.html
+|4,39,1,0,1561883879,"~/edureka-class-demo/file.html"
+-'  1  0  ~/edureka-class-demo/file.html
+|4,39,1,0,1561883879,"~/edureka-class-demo/file.html"
+-'  1  0  ~/edureka-class-demo/file.html
+|4,39,1,0,1561883879,"~/edureka-class-demo/file.html"
+-'  1  27  ~/edureka-class-demo/home.html
+|4,39,1,27,1561883795,"~/edureka-class-demo/home.html"
+-'  1  27  ~/edureka-class-demo/home.html
+|4,39,1,27,1561883795,"~/edureka-class-demo/home.html"
+-'  1  27  ~/edureka-class-demo/home.html
+|4,39,1,27,1561883795,"~/edureka-class-demo/home.html"
+-'  1  27  ~/edureka-class-demo/home.html
+|4,39,1,27,1561883795,"~/edureka-class-demo/home.html"
+-'  1  27  ~/edureka-class-demo/home.html
+|4,39,1,27,1561883795,"~/edureka-class-demo/home.html"
+-'  1  27  ~/edureka-class-demo/home.html
+|4,39,1,27,1561883795,"~/edureka-class-demo/home.html"
+-'  1  27  ~/edureka-class-demo/home.html
+|4,39,1,27,1561883795,"~/edureka-class-demo/home.html"
+-'  1  27  ~/edureka-class-demo/home.html
+|4,39,1,27,1561883795,"~/edureka-class-demo/home.html"
+-'  1  0  ~/demo/.gitignore
+|4,39,1,0,1561815314,"~/demo/.gitignore"
+-'  1  0  ~/demo/.gitignore
+|4,39,1,0,1561815314,"~/demo/.gitignore"
+-'  1  0  ~/demo/.gitignore
+|4,39,1,0,1561815314,"~/demo/.gitignore"
+-'  1  0  ~/demo/.gitignore
+|4,39,1,0,1561815314,"~/demo/.gitignore"
+-'  1  0  ~/demo/.gitignore
+|4,39,1,0,1561815314,"~/demo/.gitignore"
+-'  1  0  ~/demo/.gitignore
+|4,39,1,0,1561815314,"~/demo/.gitignore"
+-'  1  0  ~/demo/.gitignore
+|4,39,1,0,1561815314,"~/demo/.gitignore"
+-'  1  0  ~/demo/.gitignore
+|4,39,1,0,1561815314,"~/demo/.gitignore"
+-'  1  0  ~/demo/.gitignore
+|4,39,1,0,1561815314,"~/demo/.gitignore"
+-'  1  0  ~/demo/.gitignore
+|4,39,1,0,1561815314,"~/demo/.gitignore"
+-'  1  0  ~/demo/.gitignore
+|4,39,1,0,1561815314,"~/demo/.gitignore"
+-'  1  0  ~/demo/.gitignore
+|4,39,1,0,1561815314,"~/demo/.gitignore"
+-'  1  0  ~/demo/.gitignore
+|4,39,1,0,1561815314,"~/demo/.gitignore"
+-'  1  0  ~/demo/.gitignore
+|4,39,1,0,1561815314,"~/demo/.gitignore"
+-'  1  0  ~/demo/.gitignore
+|4,39,1,0,1561815314,"~/demo/.gitignore"
 -'  1  0  ~/demo/.gitignore
 |4,39,1,0,1561815314,"~/demo/.gitignore"
 
 # History of marks within files (newest to oldest):
+
+> ~/anukriti.html
+	*	1561884498	0
+	"	1	45
+	^	1	46
+	.	1	45
+	+	1	45
+
+> ~/edureka-class-demo/test1.html
+	*	1561884378	0
+	"	1	56
+	^	1	57
+	.	1	56
+	+	1	56
+
+> ~/edureka-class-demo/file.html
+	*	1561883903	0
+	"	3	25
+	^	3	26
+	.	3	25
+	+	3	25
+
+> ~/edureka-class-demo/home.html
+	*	1561883794	0
+	"	1	27
+	^	1	28
+	.	1	27
+	+	1	27
 
 > ~/demo/.gitignore
 	*	1561815313	0
